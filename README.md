@@ -1,10 +1,10 @@
-# 📊 Storytelling Data Visualization on Exchange Rates 📈
+# 📊 Storytelling Data Visualization on Exchange Rates 
 
 This project is part of the Data Analyst and Data Scientist path on Dataquest. The goal of this project is to create effective data visualizations that tell a compelling story using exchange rate data. The project covers various visualization techniques and design principles, including choosing the right chart type, color usage, and layout design.
 
 ## 📊 Data Description
 
-The dataset used in this project contains the daily exchange rates of various currencies against the Euro, from 1999 to 2020. The data is sourced from the European Central Bank (ECB) and contains over 5,000 observations and 7 columns including the currency code, date, and exchange rate.
+The dataset used in this project contains the daily exchange rates of various currencies against the Euro, from 1999 to 2020.Daria Chemkaeva put together the data set and made it available on [Kaggle](https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020) 
 
 ## 📈 Analysis Steps
 
